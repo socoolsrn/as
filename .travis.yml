@@ -33,5 +33,5 @@ script:
   - cd ../../release/askar && export schedfifo=yes && make clean > /dev/null && python ./ctest.py all
 
 env:
-  - EMAIL='parai@foxmail.com'
+  - EMAIL='srn_1987@hotmail.com.com'
 
